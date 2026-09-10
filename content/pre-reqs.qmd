@@ -1,0 +1,28 @@
+---
+title: "Pre-requisites for synchronous and asynchronous coding activities"
+date: June 22, 2026
+format:
+  html:
+    toc: true
+    toc-expand: 2
+---
+
+# The idea
+
+For synchronous and asynchronous coding activities we suggest users to leverage an online service to run Python and R code.
+
+The main environment suggested is [Google colab](https://colab.research.google.com/), which has a generous free tier at the moment of writing (June 2026).
+
+You can use an existing Google account to access it, or create a new one dedicated to the course activities. Just make sure to get access to it before the start of the course to avoid any delay.
+
+Of course you are free to use another online platform of your choice or your own computer. However, since the time dedicated to coding activities is quite limited, trainers may not be able to provide assistence on environments other than Colab in case of issues. Therefore, in case you choose to use a different environment you are expected to be able to independetly manage it.
+
+# To-Do list
+
+- Get access to a Google account (pre-existing or new one) before the start of the course
+- Watch two brief introductory videos on Colab: [Introduction to Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI) (3 mins) and [Google Colab features you may have missed](https://www.youtube.com/watch?v=rNgswRZ2C1Y) (5 mins)
+- Experiment with a Google Colab notebook to get familiar with the environment
+
+# Can you replicate the examples we share?
+
+Yes! The example code we show are jupyter notebooks that open seamlessly in Colab. Press the "Open in Colab" button to have the notebook open in Colab - and start modifying it!

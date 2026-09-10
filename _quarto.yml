@@ -1,0 +1,58 @@
+project:
+  type: website
+
+website:
+  title: "Brazil Workshop on the use of Alternative Data Sources for Consumer Price Statistics"
+  repo-url: https://github.com/UN-Task-Team-for-Scanner-Data/brazil-workshop-on-use-of-ads/
+  favicon: content\images\logo.png
+  bread-crumbs: true
+  page-navigation: true
+  back-to-top-navigation: true
+  search: true
+  navbar:
+    background: primary
+    search: true
+    title: "Workshop: Alternative Data for Consumer Price Statistics"
+
+    right:
+      - icon: box-arrow-up-right
+        menu:
+          - text: "Read about the UN Task Team for Scanner Data"
+            href: https://unstats.un.org/bigdata/task-teams/scanner/index.cshtml
+          - text: "Read the UN Task Team e-handbook on Utilising Alternative Data Sources"
+            href: https://unstats.un.org/wiki/display/GWGSD/Handbook+on+utilising+new+data+sources+in+the+production+of+consumer+price+statistics
+          - text: "Check out the 2020 CPI Manual and related resources on the IMF's website"
+            href: https://www.imf.org/en/data/statistics/cpi-manual
+          - text: "Checkout the Price Statistics Open Data Catalogue"
+            href: https://un-task-team-for-scanner-data.github.io/price-stats-data-catalogue/
+          - text: "See guidance on making your Price Statistics research reproducible"
+            href: https://un-task-team-for-scanner-data.github.io/reproducibility-project/docs/
+
+    left:
+      - icon: house
+        href: index.qmd
+        text: Home
+      - icon: calendar2-week
+        text: "Agenda"
+        href: content/agenda.qmd
+      - icon: code
+        text: Examples and practical exercises
+        menu:
+          - href: notebooks/data-prep-cleaning-classification.ipynb
+          - href: notebooks/index_calculation_Python.ipynb
+          - href: notebooks/Index_Calculation_in_R.ipynb
+          - text: "---"
+          - href: content/multilateral_examples.qmd
+          - text: "---"
+          - href: content/pre-reqs.qmd
+          - href: notebooks/Index_Calculation_Exercises_in_R.ipynb
+          - href: notebooks/Index_Calculation_Exercises_Solutions_in_R.ipynb
+          - href: notebooks/index_calculation_exercises_Python.ipynb
+          - href: notebooks/index_calculation_exercises_solutions_Python.ipynb
+
+format:
+  html:
+    toc: true
+    theme: 
+      light: zephyr
+      dark: cyborg

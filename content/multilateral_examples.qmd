@@ -1,0 +1,25 @@
+---
+title: "Tools and packages for price indices"
+date: June 24, 2026
+format:
+  html:
+    toc: true
+    toc-expand: 2
+---
+
+## Software packages
+
+In the module we will use the following software packages:
+
+-   **R**:
+    -   [PriceIndices](https://cran.r-project.org/web/packages/PriceIndices/index.html)
+    -   [IndexNumR](https://cran.r-project.org/web/packages/IndexNumR/index.html)
+    -   [piar](https://cran.r-project.org/web/packages/piar/index.html)
+-   **Python**:
+    -   [PyIndexNum](https://pypi.org/project/pyindexnum/) - **WARNING**: Still in beta status
+
+See the [open source materials within the discipline](https://un-task-team-for-scanner-data.github.io/reproducibility-project/docs/reproducibility-guidance/open-material.html) summarized on the Reproducibility Project for more examples.
+
+## Notebooks
+
+Jupyter notebooks will be loaded in a dedicated folder of the [GitHub repository](https://github.com/UN-Task-Team-for-Scanner-Data/brazil-workshop-on-use-of-ads/tree/main/notebooks). You can load them directly in Google Colab.

@@ -1,0 +1,25 @@
+---
+title: "Materials and event agenda"
+format:
+  html:
+    toc: true
+    toc-expand: 2
+---
+
+# Workshop Format and Structure
+
+::: callout-caution
+## Site under construction
+
+Material coming soon!
+:::
+
+# Day by day agenda
+
+::: callout-caution
+## Site under construction
+
+Material coming soon! 
+
+Check out event site for [overall agenda](https://hub.bps.go.id/workshop-on-scanner-data/).
+:::

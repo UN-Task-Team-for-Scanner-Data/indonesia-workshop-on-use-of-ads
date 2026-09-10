@@ -1,0 +1,53 @@
+---
+title: "Event home"
+format:
+  html:
+    toc: true
+    toc-expand: 2
+    include-in-header:
+      text: |
+        <style>
+        .title { display: none; }
+        </style>
+---
+
+Welcome to the site of the Brazil 2026 Workshop on the Use of Alternative Data Sources for Consumer Price Statistics. This event is hosted by:
+
+:::::: columns
+::: {.column width="45%"}
+![UN Task Team on Scanner Data (part of the UN CEBD)](https://unstats.un.org/bigdata/assets/img/logo/logo_2021_long.png)
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+![UN Regional Hub On Big Data and Data Science for Asia and The Pacific](https://hub.bps.go.id/content/images/2023/11/logo2.png)
+:::
+::::::
+
+# Key information about the event
+
+**Host Country**: Indonesia
+
+**Organizers**:
+
+-   UN Regional Hub On Big Data and Data Science for Asia and The Pacific
+
+-   UN Task Team on Scanner Data
+
+**Dates**: 21 September – 2 October 2026
+
+**Format**: Fully virtual
+
+**Working Language**: English
+
+# Background on the event
+
+## Purpose
+
+::: callout-caution
+## Site under construction
+
+Material coming soon!
+:::
