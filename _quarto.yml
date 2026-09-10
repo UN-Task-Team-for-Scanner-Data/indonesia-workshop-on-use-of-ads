@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Brazil Workshop on the use of Alternative Data Sources for Consumer Price Statistics"
-  repo-url: https://github.com/UN-Task-Team-for-Scanner-Data/brazil-workshop-on-use-of-ads/
+  title: "Indonesia Workshop on the use of Alternative Data Sources for Consumer Price Statistics"
+  repo-url: https://github.com/UN-Task-Team-for-Scanner-Data/indonesia-workshop-on-use-of-ads/
   favicon: content\images\logo.png
   bread-crumbs: true
   page-navigation: true
