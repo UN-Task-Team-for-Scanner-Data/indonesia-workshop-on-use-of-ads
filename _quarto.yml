@@ -54,5 +54,5 @@ format:
   html:
     toc: true
     theme: 
-      light: zephyr
+      light: cerulean
       dark: cyborg
